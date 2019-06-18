@@ -1,6 +1,6 @@
 package com.devonking.sql.pie.core;
 
-import com.devonking.ObjectUtil;
+import com.devonking.sql.util.ObjectUtil;
 
 /**
  * description in here

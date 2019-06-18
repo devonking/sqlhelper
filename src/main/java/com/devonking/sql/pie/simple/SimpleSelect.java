@@ -1,7 +1,7 @@
 package com.devonking.sql.pie.simple;
 
 import com.github.pagehelper.PageHelper;
-import com.devonking.ObjectUtil;
+import com.devonking.sql.util.ObjectUtil;
 import com.devonking.sql.constant.Constant;
 import com.devonking.sql.pie.core.*;
 import com.devonking.sql.pie.core.ResultList;

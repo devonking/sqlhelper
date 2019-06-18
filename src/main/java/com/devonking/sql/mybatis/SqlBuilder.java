@@ -1,6 +1,6 @@
 package com.devonking.sql.mybatis;
 
-import com.devonking.ObjectUtil;
+import com.devonking.sql.util.ObjectUtil;
 import com.devonking.sql.constant.Constant;
 import com.devonking.sql.util.StringUtils;
 import org.slf4j.Logger;

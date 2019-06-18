@@ -1,6 +1,6 @@
 package com.devonking.sql.pie.core;
 
-import com.devonking.ObjectUtil;
+import com.devonking.sql.util.ObjectUtil;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;

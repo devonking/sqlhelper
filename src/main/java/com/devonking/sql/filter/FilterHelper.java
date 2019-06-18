@@ -1,6 +1,6 @@
 package com.devonking.sql.filter;
 
-import com.devonking.ObjectUtil;
+import com.devonking.sql.util.ObjectUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
