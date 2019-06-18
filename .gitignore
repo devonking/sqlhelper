@@ -1,0 +1,16 @@
+target/
+.settings/
+.classpath
+bin/
+.mymetadata
+.project
+.externalToolBuilders/
+.tern-project
+*.bak
+.springBeans
+.factorypath
+
+#IDEA
+.idea
+*.iml
+*rebel.xml
